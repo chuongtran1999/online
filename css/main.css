@@ -439,6 +439,7 @@ footer .footer_widget{
     padding-bottom: 40px;
     margin-bottom: 40px;
     border-bottom: 1px #434343 solid;
+    width:100%;
 }
 
 footer .f_cols{
