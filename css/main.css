@@ -342,12 +342,10 @@ header.fixed_nav{
     display: block;
     width: 293px;
     height: auto;
-    margin-left: 80px;
+    margin-left: 7px;
 
 }
-li.cam{
-  padding-left:31%;
-}
+
 
 .testimonials ul.testi_boxs img.avatar{
     border-radius: 100px;
