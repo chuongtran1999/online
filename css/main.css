@@ -343,6 +343,10 @@ header.fixed_nav{
     width: 293px;
     height: auto;
     margin-left: 80px;
+
+}
+li.cam{
+  padding-left:31%;
 }
 
 .testimonials ul.testi_boxs img.avatar{
