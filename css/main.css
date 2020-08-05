@@ -72,12 +72,7 @@
     font-style: normal;
 
 }
-.logo{
-  border-bottom-left-radius: 50%;
-  border-bottom-right-radius: 50%;
-  border-top-right-radius: 50%;
-  border-top-left-radius: 50%;
-}
+
 
 
 
@@ -181,7 +176,12 @@ header.fixed_nav{
     z-index: 9999;
     margin-top: -81px;
 }
-
+.logo{
+border-top-right-radius: 50%;
+            border-bottom-left-radius: 50%;
+          border-top-left-radius: 50%;
+          border-bottom-right-radius: 50%;
+}
 
 
 
